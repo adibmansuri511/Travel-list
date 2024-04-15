@@ -1,5 +1,5 @@
 # Travel-list
-ReactJs Practice Project
+Developed ReactJS travel list tracking system using custom components and custom design. Users can create a list of essential travel products and manage it.
 
 ![travel-list-result-01](https://github.com/adibmansuri511/Travel-list/assets/135020831/53fb231b-8a04-40f2-bf1d-afaad0290abc)
 ![travel-list-result-02](https://github.com/adibmansuri511/Travel-list/assets/135020831/3fa22d23-8634-4283-8ce7-7a9ea98b2943)
